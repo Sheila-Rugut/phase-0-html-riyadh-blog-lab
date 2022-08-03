@@ -10,7 +10,7 @@ body {
   background-size: cover;
   background-attachment: fixed;
   font-family: Helvetica, Arial, sans-serif;
-  font-size: 100%;
+  font-size: 75%;
 }
 
 .wrapper {
@@ -31,16 +31,19 @@ h1, h2 {
 
 h1 {
   font-size: 3.5em;
+  color:blue;
   margin-bottom: 0;
 }
 
 h2 {
   font-size: 1.5em;
+  color:yellow;
   margin-top: .5em;
 }
 
 h3 {
   font-family: 'Gabriela', serif;
+  color:pink;
   font-size: 1.5em;
   margin-top: .5em;
 }
